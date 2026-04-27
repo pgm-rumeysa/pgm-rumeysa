@@ -2,8 +2,7 @@
 
 ### 💻 Student at Arteveldehogeschool.Web & Application Junior Development Student | Aspiring Frontend & Backend Developer
 
-I am a dedicated software developer currently focusing on mastering the full-stack ecosystem. My journey started with a passion for coding, and my ultimate goal is to transition into **Computer Engineering** to build complex, high-performance systems. I thrive on turning logic into functional, user-centric applications.
-
+I am currently a dedicated software developer focused on specializing in the full-stack development ecosystem. I began my education as a Developer because I wanted to build a strong and stable foundation for coding, and my ultimate goal is to transition to Computer Engineering to develop complex, high-performance systems. I enjoy translating logic into functional, user-centric applications.
 ---
 
 ### 👤 About Me
@@ -46,6 +45,5 @@ I am a dedicated software developer currently focusing on mastering the full-sta
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rumeysa-bondur-b353b1390/)
 - 🌐 [Personal Portfolio](https://my-website-rbdesign-fbbbdf.netlify.app/)
 - 📧 [Contact me via Email](mailto:rumeysa.bondur@icloud.com)
-
 ---
-*“Success is a series of small wins.” – Looking forward to my journey towards becoming a Computer Engineer.*
+
