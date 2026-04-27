@@ -38,7 +38,7 @@ I am currently a dedicated software developer focused on specializing in the ful
 ---
 
 ### 📊 GitHub Activity & Stats
-![Githup link](https://github.com/pgm-rumeysa)
+![GitHub link](https://github.com/pgm-rumeysa)
 ---
 
 ### 🔗 Connect with me
