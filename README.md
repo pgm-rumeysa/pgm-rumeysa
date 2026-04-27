@@ -44,6 +44,6 @@ I am currently a dedicated software developer focused on specializing in the ful
 ### 🔗 Connect with me
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rumeysa-bondur-b353b1390/)
 - 🌐 [Personal Portfolio](https://my-website-rbdesign-fbbbdf.netlify.app/)
-- 📧 [Contact me via Email](mailto:rumeysa.bondur@icloud.com)
+- 📧 [Contact me via Email](mailto:rumeysa.bondur@student.arteveldehs.be)
 ---
 
