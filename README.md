@@ -1,9 +1,7 @@
-# Hi there, I'm Rumeysa! 👋
+Hi there, I'm Rumeysa! 👋
 
-### 💻 Student at Arteveldehogeschool.Web & Application Junior Development Student | Aspiring Frontend & Backend Developer
-
+💻 Student at Arteveldehogeschool.Web & Application Junior Development Student | Aspiring Frontend & Backend Developer
 I am currently a dedicated software developer focused on specializing in the full-stack development ecosystem. I began my education as a Developer because I wanted to build a strong and stable foundation for coding, and my ultimate goal is to transition to Computer Engineering to develop complex, high-performance systems. I enjoy translating logic into functional, user-centric applications.
----
 
 ### 👤 About Me
 - 🚀 **Focus:** Building seamless user experiences Frontend and robust server-side logic Backend.
